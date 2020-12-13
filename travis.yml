@@ -1,0 +1,15 @@
+language: php
+php:
+  - '5.6'
+  - '7.0'
+  - '7.1'
+  - '7.2'
+  - '7.3'
+  - '7.4'
+deploy:
+  provider: releases
+  name: "Versión $TRAVIS_TAG"
+  skip_cleanup: true
+  on:
+    repo: emilio-ferrer/travis-test
+    tags: true
