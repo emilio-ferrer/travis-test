@@ -1,4 +1,4 @@
-[![Latest Stable Version](https://poser.pugx.org/emilio-ferrer/travis-test/v/stable)](https://packagist.org/packages/emilio-ferrer/travis-test)
+[![Latest Stable Version](https://poser.pugx.org/phpunit/phpunit/v)](//packagist.org/packages/phpunit/phpunit) [![Total Downloads](https://poser.pugx.org/phpunit/phpunit/downloads)](//packagist.org/packages/phpunit/phpunit) [![License](https://poser.pugx.org/phpunit/phpunit/license)](//packagist.org/packages/phpunit/phpunit)
 
 # Travis test
 
